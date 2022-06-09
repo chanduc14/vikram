@@ -1,0 +1,9 @@
+{
+	"name": "Dhoni-thala-adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "26098eab-e0e8-446b-b074-a981054defd6",
+		"tenantId": "e616e1d2-0942-4230-bdc8-e15e493b864d"
+	}
+}
